@@ -1,0 +1,2 @@
+# Bush-vs-Williams-using-multiple-classification-and-regression-models
+Train a model to classify “bush vs not bush” and “williams vs not williams” face recognition To understand performance of various classifiers for authentication using facial classification Task:  Identify the dataset Understanding the data -size of the images, quality of images Feature analysis - number of features,  Try out various classifiers and understand differences in performance
