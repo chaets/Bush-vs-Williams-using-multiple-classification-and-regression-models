@@ -1,0 +1,17 @@
+shape (13233, 4096)
+bush shape (13233,)
+For C value in rbf 0.01
+For C value in rgf with Gamma:  1e-07
+Variable C in RBF {'fit_time': array([58.15740442, 39.59612465, 36.05717421]), 'score_time': array([56.36101985, 48.20187235, 48.4243958 ]), 'test_precision': array([0., 0., 0.]), 'test_recall': array([0., 0., 0.]), 'test_f1': array([0., 0., 0.])}
+For C value in rgf with Gamma:  1e-06
+Variable C in RBF {'fit_time': array([35.48806286, 37.94470382, 52.95911407]), 'score_time': array([51.01544905, 51.65039992, 68.99768543]), 'test_precision': array([0., 0., 0.]), 'test_recall': array([0., 0., 0.]), 'test_f1': array([0., 0., 0.])}
+For C value in rgf with Gamma:  1e-05
+Variable C in RBF {'fit_time': array([35.03069973, 35.31925249, 34.58504891]), 'score_time': array([48.56222177, 50.18917584, 48.12350011]), 'test_precision': array([0., 0., 0.]), 'test_recall': array([0., 0., 0.]), 'test_f1': array([0., 0., 0.])}
+For C value in rgf with Gamma:  0.0001
+Variable C in RBF {'fit_time': array([34.39039159, 34.90962577, 64.17586899]), 'score_time': array([48.11090279, 48.72760677, 56.98250699]), 'test_precision': array([0., 0., 0.]), 'test_recall': array([0., 0., 0.]), 'test_f1': array([0., 0., 0.])}
+For C value in rgf with Gamma:  0.001
+Variable C in RBF {'fit_time': array([53.1067121 , 54.46302724, 53.78620791]), 'score_time': array([74.84706497, 75.48237371, 74.88144279]), 'test_precision': array([0., 0., 0.]), 'test_recall': array([0., 0., 0.]), 'test_f1': array([0., 0., 0.])}
+For C value in rgf with Gamma:  0.01
+Variable C in RBF {'fit_time': array([194.31361818, 202.24318337, 158.21431613]), 'score_time': array([296.64080739, 288.96264219, 217.52834964]), 'test_precision': array([0., 0., 0.]), 'test_recall': array([0., 0., 0.]), 'test_f1': array([0., 0., 0.])}
+For C value in rgf with Gamma:  0.1
+Variable C in RBF {'fit_time': array([294.09488225, 272.13792157, 263.47728324]), 'score_time': array([518.94002438, 403.63640046, 442.95752215]), 'test_precision': array([0., 0., 0.]), 'test_recall': array([0., 0., 0.]), 'test_f1': array([0., 0., 0.])}

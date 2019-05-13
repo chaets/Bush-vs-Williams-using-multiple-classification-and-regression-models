@@ -1,0 +1,159 @@
+shape (13233, 4096)
+williams shape (13233,)
+CV for PCA 1
+KNN Results:  {'fit_time': array([0.01196718, 0.01296473, 0.01196742]), 'score_time': array([0.03690147, 0.03391027, 0.03091717]), 'test_precision': array([0.        , 0.        , 0.03571429]), 'test_recall': array([0.        , 0.        , 0.05882353]), 'test_f1': array([0.        , 0.        , 0.04444444])}
+KNN Results:  {'fit_time': array([0.00997257, 0.00997996, 0.00997472]), 'score_time': array([0.18849659, 0.02991295, 0.04986548]), 'test_precision': array([0., 0., 0.]), 'test_recall': array([0., 0., 0.]), 'test_f1': array([0., 0., 0.])}
+KNN Results:  {'fit_time': array([0.01396132, 0.00898075, 0.00698161]), 'score_time': array([0.04488111, 0.03290653, 0.03690076]), 'test_precision': array([0., 0., 0.]), 'test_recall': array([0., 0., 0.]), 'test_f1': array([0., 0., 0.])}
+CV for PCA 2
+KNN Results:  {'fit_time': array([0.00797987, 0.00897527, 0.0079782 ]), 'score_time': array([0.04288459, 0.03789902, 0.03590512]), 'test_precision': array([0.08333333, 0.        , 0.05263158]), 'test_recall': array([0.05555556, 0.        , 0.05882353]), 'test_f1': array([0.06666667, 0.        , 0.05555556])}
+KNN Results:  {'fit_time': array([0.00598454, 0.00598407, 0.00797725]), 'score_time': array([0.03989339, 0.03291178, 0.0339098 ]), 'test_precision': array([0., 0., 0.]), 'test_recall': array([0., 0., 0.]), 'test_f1': array([0., 0., 0.])}
+KNN Results:  {'fit_time': array([0.00897551, 0.00698161, 0.00598383]), 'score_time': array([0.04288602, 0.04089069, 0.04587722]), 'test_precision': array([0., 0., 0.]), 'test_recall': array([0., 0., 0.]), 'test_f1': array([0., 0., 0.])}
+CV for PCA 4
+KNN Results:  {'fit_time': array([0.00997329, 0.00797772, 0.0079782 ]), 'score_time': array([0.11170101, 0.09375095, 0.09574342]), 'test_precision': array([0.15789474, 0.07142857, 0.08333333]), 'test_recall': array([0.16666667, 0.05882353, 0.11764706]), 'test_f1': array([0.16216216, 0.06451613, 0.09756098])}
+KNN Results:  {'fit_time': array([0.0129652 , 0.00797725, 0.00698066]), 'score_time': array([0.14860392, 0.13164806, 0.12965345]), 'test_precision': array([0., 0., 0.]), 'test_recall': array([0., 0., 0.]), 'test_f1': array([0., 0., 0.])}
+KNN Results:  {'fit_time': array([0.0079782 , 0.0099709 , 0.00997186]), 'score_time': array([0.17752743, 0.2024591 , 0.24534345]), 'test_precision': array([0., 0., 0.]), 'test_recall': array([0., 0., 0.]), 'test_f1': array([0., 0., 0.])}
+CV for PCA 8
+KNN Results:  {'fit_time': array([0.01895118, 0.00997233, 0.01097012]), 'score_time': array([0.82778311, 0.60637856, 0.55252194]), 'test_precision': array([0.15384615, 0.1       , 0.15789474]), 'test_recall': array([0.11111111, 0.05882353, 0.17647059]), 'test_f1': array([0.12903226, 0.07407407, 0.16666667])}
+KNN Results:  {'fit_time': array([0.01196766, 0.0149591 , 0.01894903]), 'score_time': array([1.09207988, 1.02226472, 0.86468863]), 'test_precision': array([0., 0., 0.]), 'test_recall': array([0., 0., 0.]), 'test_f1': array([0., 0., 0.])}
+KNN Results:  {'fit_time': array([0.01096964, 0.01296496, 0.01296401]), 'score_time': array([1.30750465, 1.01428771, 1.16588449]), 'test_precision': array([0., 0., 0.]), 'test_recall': array([0., 0., 0.]), 'test_f1': array([0., 0., 0.])}
+CV for PCA 16
+KNN Results:  {'fit_time': array([0.01894927, 0.01695442, 0.01994538]), 'score_time': array([3.28820634, 3.04585528, 3.01493835]), 'test_precision': array([0.3       , 0.14285714, 0.26666667]), 'test_recall': array([0.16666667, 0.05882353, 0.23529412]), 'test_f1': array([0.21428571, 0.08333333, 0.25      ])}
+KNN Results:  {'fit_time': array([0.02193904, 0.01695418, 0.0169549 ]), 'score_time': array([3.81280279, 3.04385829, 3.76094055]), 'test_precision': array([0. , 0.5, 1. ]), 'test_recall': array([0.        , 0.05882353, 0.05882353]), 'test_f1': array([0.        , 0.10526316, 0.11111111])}
+KNN Results:  {'fit_time': array([0.01296473, 0.02393246, 0.01595688]), 'score_time': array([3.78986382, 3.31513476, 4.07709479]), 'test_precision': array([0., 0., 1.]), 'test_recall': array([0.        , 0.        , 0.05882353]), 'test_f1': array([0.        , 0.        , 0.11111111])}
+CV for PCA 32
+KNN Results:  {'fit_time': array([0.02992034, 0.02692771, 0.02194142]), 'score_time': array([7.53684139, 6.70407104, 7.87992358]), 'test_precision': array([0.44444444, 0.25      , 0.1875    ]), 'test_recall': array([0.22222222, 0.11764706, 0.17647059]), 'test_f1': array([0.2962963 , 0.16      , 0.18181818])}
+KNN Results:  {'fit_time': array([0.02194071, 0.03889394, 0.02992129]), 'score_time': array([8.81941199, 9.19141698, 9.3928771 ]), 'test_precision': array([0. , 0. , 0.5]), 'test_recall': array([0.        , 0.        , 0.05882353]), 'test_f1': array([0.        , 0.        , 0.10526316])}
+KNN Results:  {'fit_time': array([0.03690147, 0.03390837, 0.02393365]), 'score_time': array([9.94739509, 8.6817801 , 8.14820933]), 'test_precision': array([0., 0., 0.]), 'test_recall': array([0., 0., 0.]), 'test_f1': array([0., 0., 0.])}
+CV for PCA 64
+KNN Results:  {'fit_time': array([0.05784583, 0.04188824, 0.05684853]), 'score_time': array([16.09794235, 15.48957205, 16.59461522]), 'test_precision': array([0.22222222, 0.28571429, 0.38461538]), 'test_recall': array([0.11111111, 0.11764706, 0.29411765]), 'test_f1': array([0.14814815, 0.16666667, 0.33333333])}
+KNN Results:  {'fit_time': array([0.04886818, 0.04488087, 0.05086303]), 'score_time': array([16.71828508, 16.74222016, 18.03576088]), 'test_precision': array([0., 0., 0.]), 'test_recall': array([0., 0., 0.]), 'test_f1': array([0., 0., 0.])}
+KNN Results:  {'fit_time': array([0.05585027, 0.04488087, 0.04787278]), 'score_time': array([17.50418282, 17.92405939, 19.07298517]), 'test_precision': array([0., 0., 0.]), 'test_recall': array([0., 0., 0.]), 'test_f1': array([0., 0., 0.])}
+CV for PCA 128
+KNN Results:  {'fit_time': array([0.12666035, 0.10372233, 0.09275174]), 'score_time': array([29.42330432, 30.12442732, 29.07423568]), 'test_precision': array([0.5       , 0.28571429, 0.38461538]), 'test_recall': array([0.11111111, 0.11764706, 0.29411765]), 'test_f1': array([0.18181818, 0.16666667, 0.33333333])}
+KNN Results:  {'fit_time': array([0.10870981, 0.09474707, 0.10471964]), 'score_time': array([30.40368009, 32.32354474, 30.5383203 ]), 'test_precision': array([0., 0., 1.]), 'test_recall': array([0.        , 0.        , 0.05882353]), 'test_f1': array([0.        , 0.        , 0.11111111])}
+KNN Results:  {'fit_time': array([0.09374666, 0.09674287, 0.09474659]), 'score_time': array([31.04097748, 32.71350121, 31.28332686]), 'test_precision': array([0., 0., 0.]), 'test_recall': array([0., 0., 0.]), 'test_f1': array([0., 0., 0.])}
+CV for PCA 256
+KNN Results:  {'fit_time': array([0.23936009, 0.30518365, 0.21342731]), 'score_time': array([54.73360634, 54.42143941, 53.71632743]), 'test_precision': array([0.5 , 0.25, 0.5 ]), 'test_recall': array([0.11111111, 0.11764706, 0.29411765]), 'test_f1': array([0.18181818, 0.16      , 0.37037037])}
+KNN Results:  {'fit_time': array([0.22041035, 0.22240615, 0.21043849]), 'score_time': array([54.86625075, 57.42540526, 55.13852191]), 'test_precision': array([0., 0., 1.]), 'test_recall': array([0.        , 0.        , 0.05882353]), 'test_f1': array([0.        , 0.        , 0.11111111])}
+KNN Results:  {'fit_time': array([0.21043634, 0.21243119, 0.22140718]), 'score_time': array([55.75587106, 58.40578365, 57.11922383]), 'test_precision': array([0., 0., 0.]), 'test_recall': array([0., 0., 0.]), 'test_f1': array([0., 0., 0.])}
+CV for PCA 512
+KNN Results:  {'fit_time': array([0.48969007, 0.48171043, 0.48071313]), 'score_time': array([108.6663518 , 108.62047577,  99.94268656]), 'test_precision': array([0.66666667, 0.14285714, 0.5       ]), 'test_recall': array([0.11111111, 0.05882353, 0.23529412]), 'test_f1': array([0.19047619, 0.08333333, 0.32      ])}
+KNN Results:  {'fit_time': array([0.46874642, 0.55850601, 0.49667192]), 'score_time': array([111.4459188 , 104.03075075, 104.5214386 ]), 'test_precision': array([0., 0., 0.]), 'test_recall': array([0., 0., 0.]), 'test_f1': array([0., 0., 0.])}
+KNN Results:  {'fit_time': array([0.4757278 , 0.59939861, 0.45578051]), 'score_time': array([109.3515203 , 106.55799007, 105.28140616]), 'test_precision': array([0., 0., 0.]), 'test_recall': array([0., 0., 0.]), 'test_f1': array([0., 0., 0.])}
+CV for PCA 1024
+KNN Results:  {'fit_time': array([1.23270369, 1.02226472, 1.04021883]), 'score_time': array([210.82411242, 200.84779692, 201.95283937]), 'test_precision': array([0.66666667, 0.14285714, 0.5       ]), 'test_recall': array([0.11111111, 0.05882353, 0.23529412]), 'test_f1': array([0.19047619, 0.08333333, 0.32      ])}
+KNN Results:  {'fit_time': array([1.14294171, 1.04021955, 1.10205173]), 'score_time': array([220.99347973, 211.65389252, 211.31579757]), 'test_precision': array([0., 0., 0.]), 'test_recall': array([0., 0., 0.]), 'test_f1': array([0., 0., 0.])}
+KNN Results:  {'fit_time': array([1.04320884, 1.05218577, 1.01428747]), 'score_time': array([228.5467124 , 214.78352284, 216.66050148]), 'test_precision': array([0., 0., 0.]), 'test_recall': array([0., 0., 0.]), 'test_f1': array([0., 0., 0.])}
+CV for PCA 2048
+KNN Results:  {'fit_time': array([2.29286766, 2.19313717, 2.1811676 ]), 'score_time': array([436.74028659, 409.05590415, 409.08482838]), 'test_precision': array([0.66666667, 0.16666667, 0.5       ]), 'test_recall': array([0.11111111, 0.05882353, 0.23529412]), 'test_f1': array([0.19047619, 0.08695652, 0.32      ])}
+KNN Results:  {'fit_time': array([2.24000859, 2.23103404, 2.19512844]), 'score_time': array([445.99012089, 423.33371687, 427.92942595]), 'test_precision': array([0., 0., 0.]), 'test_recall': array([0., 0., 0.]), 'test_f1': array([0., 0., 0.])}
+KNN Results:  {'fit_time': array([2.42052603, 2.20510292, 2.24499464]), 'score_time': array([452.44784856, 428.44803834, 424.60332251]), 'test_precision': array([0., 0., 0.]), 'test_recall': array([0., 0., 0.]), 'test_f1': array([0., 0., 0.])}
+CV for PCA 4000
+KNN Results:  {'fit_time': array([2.90423155, 2.81546926, 3.01294112]), 'score_time': array([811.18733478, 782.50604701, 781.73909807]), 'test_precision': array([0.66666667, 0.16666667, 0.5       ]), 'test_recall': array([0.11111111, 0.05882353, 0.23529412]), 'test_f1': array([0.19047619, 0.08695652, 0.32      ])}
+KNN Results:  {'fit_time': array([2.84838128, 2.86733055, 2.80749321]), 'score_time': array([827.19252443, 802.11360121, 800.94541836]), 'test_precision': array([0., 0., 0.]), 'test_recall': array([0., 0., 0.]), 'test_f1': array([0., 0., 0.])}
+KNN Results:  {'fit_time': array([2.87331533, 2.83242559, 2.7416687 ]), 'score_time': array([828.7443738 , 809.79306126, 804.38053751]), 'test_precision': array([0., 0., 0.]), 'test_recall': array([0., 0., 0.]), 'test_f1': array([0., 0., 0.])}
+CV for PCA 1
+For C value in Linear 1
+Variable C in Linear {'fit_time': array([0.11768579, 0.13064885, 0.13364315]), 'score_time': array([0.02094603, 0.02094293, 0.02094388]), 'test_precision': array([0., 0., 0.]), 'test_recall': array([0., 0., 0.]), 'test_f1': array([0., 0., 0.])}
+For C value in Linear 10
+Variable C in Linear {'fit_time': array([32.58683991, 63.26877689, 35.1948638 ]), 'score_time': array([0.01894951, 0.01396275, 0.01296663]), 'test_precision': array([0., 0., 0.]), 'test_recall': array([0., 0., 0.]), 'test_f1': array([0., 0., 0.])}
+For C value in Linear 50
+Variable C in Linear {'fit_time': array([39.04157472, 65.97653246, 58.08863139]), 'score_time': array([0.01496148, 0.01595855, 0.01396298]), 'test_precision': array([0., 0., 0.]), 'test_recall': array([0., 0., 0.]), 'test_f1': array([0., 0., 0.])}
+For C value in Linear 100
+Variable C in Linear {'fit_time': array([15.8815217 , 96.75720477, 44.60070634]), 'score_time': array([0.01595807, 0.01496005, 0.01795292]), 'test_precision': array([0., 0., 0.]), 'test_recall': array([0., 0., 0.]), 'test_f1': array([0., 0., 0.])}
+For C value in Linear 150
+Variable C in Linear {'fit_time': array([ 61.20030904, 123.07980013,  63.29769826]), 'score_time': array([0.01296473, 0.01396203, 0.01695538]), 'test_precision': array([0., 0., 0.]), 'test_recall': array([0., 0., 0.]), 'test_f1': array([0., 0., 0.])}
+For C value in Linear 200
+Variable C in Linear {'fit_time': array([ 31.19157171, 122.38266587,  36.39565325]), 'score_time': array([0.01396346, 0.014961  , 0.01396346]), 'test_precision': array([0., 0., 0.]), 'test_recall': array([0., 0., 0.]), 'test_f1': array([0., 0., 0.])}
+For C value in Linear 250
+Variable C in Linear {'fit_time': array([32.5000701 , 78.68254828, 44.76426935]), 'score_time': array([0.01396322, 0.01895046, 0.01496005]), 'test_precision': array([0., 0., 0.]), 'test_recall': array([0., 0., 0.]), 'test_f1': array([0., 0., 0.])}
+For C value in Linear 300
+Variable C in Linear {'fit_time': array([ 80.51165605, 115.16397333,  51.70869637]), 'score_time': array([0.01496124, 0.01396346, 0.01795363]), 'test_precision': array([0., 0., 0.]), 'test_recall': array([0., 0., 0.]), 'test_f1': array([0., 0., 0.])}
+For C value in Linear 350
+Variable C in Linear {'fit_time': array([ 38.72741508, 120.95348883,  91.66183305]), 'score_time': array([0.01296496, 0.01595688, 0.0169549 ]), 'test_precision': array([0., 0., 0.]), 'test_recall': array([0., 0., 0.]), 'test_f1': array([0., 0., 0.])}
+For C value in Linear 400
+Variable C in Linear {'fit_time': array([ 71.84583354, 105.80699968,  49.22334385]), 'score_time': array([0.01396298, 0.01296639, 0.01396251]), 'test_precision': array([0., 0., 0.]), 'test_recall': array([0., 0., 0.]), 'test_f1': array([0., 0., 0.])}
+For C value in Linear 450
+Variable C in Linear {'fit_time': array([50.75424767, 94.42643785, 54.98991871]), 'score_time': array([0.01396608, 0.01595879, 0.01695704]), 'test_precision': array([0., 0., 0.]), 'test_recall': array([0., 0., 0.]), 'test_f1': array([0., 0., 0.])}
+For C value in Linear 500
+Variable C in Linear {'fit_time': array([ 55.69004631, 136.41712689,  45.99497724]), 'score_time': array([0.01695538, 0.0169549 , 0.01595736]), 'test_precision': array([0., 0., 0.]), 'test_recall': array([0., 0., 0.]), 'test_f1': array([0., 0., 0.])}
+For C value in Linear 600
+Variable C in Linear {'fit_time': array([ 49.21137428, 115.61775947,  68.78302622]), 'score_time': array([0.01695609, 0.01495981, 0.01595879]), 'test_precision': array([0., 0., 0.]), 'test_recall': array([0., 0., 0.]), 'test_f1': array([0., 0., 0.])}
+For C value in Linear 700
+Variable C in Linear {'fit_time': array([ 68.40703225, 112.69357991,  88.49829316]), 'score_time': array([0.01895046, 0.01595688, 0.01994705]), 'test_precision': array([0., 0., 0.]), 'test_recall': array([0., 0., 0.]), 'test_f1': array([0., 0., 0.])}
+For C value in Linear 800
+Variable C in Linear {'fit_time': array([58.60923839, 81.06617236, 81.07614708]), 'score_time': array([0.01496267, 0.01496053, 0.01396179]), 'test_precision': array([0., 0., 0.]), 'test_recall': array([0., 0., 0.]), 'test_f1': array([0., 0., 0.])}
+For C value in Linear 900
+Variable C in Linear {'fit_time': array([ 72.49509907, 138.43074155,  97.1132524 ]), 'score_time': array([0.01296616, 0.01795173, 0.0139637 ]), 'test_precision': array([0., 0., 0.]), 'test_recall': array([0., 0., 0.]), 'test_f1': array([0., 0., 0.])}
+For C value in Linear 1000
+Variable C in Linear {'fit_time': array([152.35150838,  99.76017427,  86.13561392]), 'score_time': array([0.0129652 , 0.01595712, 0.0139637 ]), 'test_precision': array([0., 0., 0.]), 'test_recall': array([0., 0., 0.]), 'test_f1': array([0., 0., 0.])}
+For C value in Linear 1250
+Variable C in Linear {'fit_time': array([124.64860535, 125.91222453, 120.78593564]), 'score_time': array([0.01795173, 0.01795268, 0.01595783]), 'test_precision': array([0., 0., 0.]), 'test_recall': array([0., 0., 0.]), 'test_f1': array([0., 0., 0.])}
+For C value in Linear 1500
+Variable C in Linear {'fit_time': array([107.72686481, 159.42558765, 138.09464097]), 'score_time': array([0.014961  , 0.01795244, 0.01496363]), 'test_precision': array([0., 0., 0.]), 'test_recall': array([0., 0., 0.]), 'test_f1': array([0., 0., 0.])}
+For C value in Linear 1750
+Variable C in Linear {'fit_time': array([144.68002725, 166.98636651, 179.43108034]), 'score_time': array([0.01994658, 0.02193952, 0.01396132]), 'test_precision': array([0., 0., 0.]), 'test_recall': array([0., 0., 0.]), 'test_f1': array([0., 0., 0.])}
+For C value in Linear 2000
+Variable C in Linear {'fit_time': array([146.8292768 , 150.05465174, 165.89029527]), 'score_time': array([0.01595807, 0.0149591 , 0.01695585]), 'test_precision': array([0., 0., 0.]), 'test_recall': array([0., 0., 0.]), 'test_f1': array([0., 0., 0.])}
+CV for PCA 2
+For C value in Linear 1
+Variable C in Linear {'fit_time': array([0.125664  , 0.11170197, 0.11269879]), 'score_time': array([0.0219419 , 0.01595616, 0.02094364]), 'test_precision': array([0., 0., 0.]), 'test_recall': array([0., 0., 0.]), 'test_f1': array([0., 0., 0.])}
+For C value in Linear 10
+Variable C in Linear {'fit_time': array([198.96483231, 107.53238535, 141.04774332]), 'score_time': array([0.01595664, 0.01695466, 0.01795053]), 'test_precision': array([0., 0., 0.]), 'test_recall': array([0., 0., 0.]), 'test_f1': array([0., 0., 0.])}
+For C value in Linear 50
+Variable C in Linear {'fit_time': array([168.73169565, 120.68720078, 224.11955047]), 'score_time': array([0.01695466, 0.01994848, 0.01894927]), 'test_precision': array([0., 0., 0.]), 'test_recall': array([0., 0., 0.]), 'test_f1': array([0., 0., 0.])}
+For C value in Linear 100
+Variable C in Linear {'fit_time': array([170.55482101,  71.55062437, 122.7028091 ]), 'score_time': array([0.01695371, 0.01595712, 0.0149591 ]), 'test_precision': array([0., 0., 0.]), 'test_recall': array([0., 0., 0.]), 'test_f1': array([0., 0., 0.])}
+For C value in Linear 150
+Variable C in Linear {'fit_time': array([110.28801489,  87.30249405, 187.17037964]), 'score_time': array([0.01596069, 0.01595712, 0.01495886]), 'test_precision': array([0., 0., 0.]), 'test_recall': array([0., 0., 0.]), 'test_f1': array([0., 0., 0.])}
+For C value in Linear 200
+Variable C in Linear {'fit_time': array([127.57677341, 160.32817245, 247.65759373]), 'score_time': array([0.01396298, 0.01695514, 0.01396322]), 'test_precision': array([0., 0., 0.]), 'test_recall': array([0., 0., 0.]), 'test_f1': array([0., 0., 0.])}
+For C value in Linear 250
+Variable C in Linear {'fit_time': array([ 98.61922455, 119.53926921, 119.55423093]), 'score_time': array([0.014961  , 0.01296568, 0.01396227]), 'test_precision': array([0., 0., 0.]), 'test_recall': array([0., 0., 0.]), 'test_f1': array([0., 0., 0.])}
+For C value in Linear 300
+Variable C in Linear {'fit_time': array([142.81202292, 160.23841333, 170.74929976]), 'score_time': array([0.01496077, 0.01595783, 0.01695561]), 'test_precision': array([0., 0., 0.]), 'test_recall': array([0., 0., 0.]), 'test_f1': array([0., 0., 0.])}
+For C value in Linear 350
+Variable C in Linear {'fit_time': array([137.73859191, 137.63985753, 132.57939053]), 'score_time': array([0.01296663, 0.01495934, 0.01595736]), 'test_precision': array([0., 0., 0.]), 'test_recall': array([0., 0., 0.]), 'test_f1': array([0., 0., 0.])}
+For C value in Linear 400
+Variable C in Linear {'fit_time': array([109.4771831 , 162.85341692, 184.55736756]), 'score_time': array([0.01994824, 0.01595831, 0.01994705]), 'test_precision': array([0., 0., 0.]), 'test_recall': array([0., 0., 0.]), 'test_f1': array([0., 0., 0.])}
+For C value in Linear 450
+Variable C in Linear {'fit_time': array([194.42098618, 128.68082023, 166.5295856 ]), 'score_time': array([0.01795244, 0.01296639, 0.02493382]), 'test_precision': array([0., 0., 0.]), 'test_recall': array([0., 0., 0.]), 'test_f1': array([0., 0., 0.])}
+For C value in Linear 500
+Variable C in Linear {'fit_time': array([136.1129415 , 121.46412063, 157.04894352]), 'score_time': array([0.01695561, 0.01895046, 0.01695442]), 'test_precision': array([0., 0., 0.]), 'test_recall': array([0., 0., 0.]), 'test_f1': array([0., 0., 0.])}
+For C value in Linear 600
+Variable C in Linear {'fit_time': array([134.07500052, 250.15790653, 155.77933908]), 'score_time': array([0.01894903, 0.01895022, 0.01396346]), 'test_precision': array([0., 0., 0.]), 'test_recall': array([0., 0., 0.]), 'test_f1': array([0., 0., 0.])}
+For C value in Linear 700
+Variable C in Linear {'fit_time': array([136.21367168, 176.58868289, 243.04493165]), 'score_time': array([0.01296449, 0.01396251, 0.01196861]), 'test_precision': array([0., 0., 0.]), 'test_recall': array([0., 0., 0.]), 'test_f1': array([0., 0., 0.])}
+For C value in Linear 800
+Variable C in Linear {'fit_time': array([124.51596069, 196.68094039, 155.64370203]), 'score_time': array([0.01496005, 0.01695395, 0.01695466]), 'test_precision': array([0., 0., 0.]), 'test_recall': array([0., 0., 0.]), 'test_f1': array([0., 0., 0.])}
+For C value in Linear 900
+Variable C in Linear {'fit_time': array([119.18821001, 190.31796074, 188.90773225]), 'score_time': array([0.01495957, 0.01196766, 0.01894903]), 'test_precision': array([0., 0., 0.]), 'test_recall': array([0., 0., 0.]), 'test_f1': array([0., 0., 0.])}
+For C value in Linear 1000
+Variable C in Linear {'fit_time': array([138.01485491, 174.14920521, 203.25336123]), 'score_time': array([0.01496124, 0.01795363, 0.01795316]), 'test_precision': array([0., 0., 0.]), 'test_recall': array([0., 0., 0.]), 'test_f1': array([0., 0., 0.])}
+For C value in Linear 1250
+Variable C in Linear {'fit_time': array([129.46472359, 293.39127207, 282.73477435]), 'score_time': array([0.01196814, 0.01396227, 0.01595879]), 'test_precision': array([0., 0., 0.]), 'test_recall': array([0., 0., 0.]), 'test_f1': array([0., 0., 0.])}
+For C value in Linear 1500
+Variable C in Linear {'fit_time': array([139.13984513, 228.57563162, 205.02861404]), 'score_time': array([0.0189507 , 0.01695561, 0.01296544]), 'test_precision': array([0., 0., 0.]), 'test_recall': array([0., 0., 0.]), 'test_f1': array([0., 0., 0.])}
+For C value in Linear 1750
+Variable C in Linear {'fit_time': array([154.62442946, 238.82422233, 270.92934942]), 'score_time': array([0.01296592, 0.01296544, 0.0179522 ]), 'test_precision': array([0., 0., 0.]), 'test_recall': array([0., 0., 0.]), 'test_f1': array([0., 0., 0.])}
+For C value in Linear 2000
+Variable C in Linear {'fit_time': array([186.85023499, 418.34505963, 321.27469301]), 'score_time': array([0.01695538, 0.01495981, 0.01495957]), 'test_precision': array([0., 0., 0.]), 'test_recall': array([0., 0., 0.]), 'test_f1': array([0., 0., 0.])}
+CV for PCA 4
+For C value in Linear 1
+Variable C in Linear {'fit_time': array([0.10971117, 0.09075713, 0.08477306]), 'score_time': array([0.03390431, 0.02493453, 0.02293873]), 'test_precision': array([0., 0., 0.]), 'test_recall': array([0., 0., 0.]), 'test_f1': array([0., 0., 0.])}
+For C value in Linear 10
+Variable C in Linear {'fit_time': array([455.30819631, 445.63806057, 381.04283142]), 'score_time': array([0.01795197, 0.01695395, 0.01795268]), 'test_precision': array([0., 0., 0.]), 'test_recall': array([0., 0., 0.]), 'test_f1': array([0., 0., 0.])}
+For C value in Linear 50
+Variable C in Linear {'fit_time': array([413.57282519, 515.81835103, 398.85624266]), 'score_time': array([0.01894879, 0.01496005, 0.01795173]), 'test_precision': array([0., 0., 0.]), 'test_recall': array([0., 0., 0.]), 'test_f1': array([0., 0., 0.])}
+For C value in Linear 100
+Variable C in Linear {'fit_time': array([476.75084329, 518.35855937, 389.01251626]), 'score_time': array([0.01296616, 0.01695061, 0.01396132]), 'test_precision': array([0., 0., 0.]), 'test_recall': array([0., 0., 0.]), 'test_f1': array([0., 0., 0.])}
+For C value in Linear 150
+Variable C in Linear {'fit_time': array([480.40507054, 486.27337432, 395.73952246]), 'score_time': array([0.0129652 , 0.01595783, 0.01994705]), 'test_precision': array([0., 0., 0.]), 'test_recall': array([0., 0., 0.]), 'test_f1': array([0., 0., 0.])}
+For C value in Linear 200
+Variable C in Linear {'fit_time': array([510.66114402, 575.75304246, 404.65068841]), 'score_time': array([0.01795316, 0.01795268, 0.01894927]), 'test_precision': array([0., 0., 0.]), 'test_recall': array([0., 0., 0.]), 'test_f1': array([0., 0., 0.])}
+For C value in Linear 250
+Variable C in Linear {'fit_time': array([498.00399828, 540.32380533, 397.64941454]), 'score_time': array([0.01396298, 0.0189507 , 0.01396275]), 'test_precision': array([0., 0., 0.]), 'test_recall': array([0., 0., 0.]), 'test_f1': array([0., 0., 0.])}
+For C value in Linear 300
+Variable C in Linear {'fit_time': array([488.63106751, 567.06328726, 421.05979943]), 'score_time': array([0.01396203, 0.01795244, 0.01595783]), 'test_precision': array([0., 0., 0.]), 'test_recall': array([0., 0., 0.]), 'test_f1': array([0., 0., 0.])}
+For C value in Linear 350
+Variable C in Linear {'fit_time': array([500.18915296, 543.82543969, 427.46167564]), 'score_time': array([0.01495934, 0.01994777, 0.01595759]), 'test_precision': array([0., 0., 0.]), 'test_recall': array([0., 0., 0.]), 'test_f1': array([0., 0., 0.])}
